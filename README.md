@@ -1,4 +1,4 @@
-# data-analysis-practical-manual
+# 数据分析实战手册
 
 ## 1. 前言
 
